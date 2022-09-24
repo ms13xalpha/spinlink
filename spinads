@@ -1,7 +1,7 @@
 {
 "Ads":"true",
 "ads_type":"admob",
-"ads_native_type":"banner",
+"ads_native_type":"nativebanner",
 "ad_one_by_one_ids":"false",
 "Rinter":"/6499/example/interstitial",
 "Rbanner":"/6499/example/banner",
