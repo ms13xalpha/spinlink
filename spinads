@@ -1,5 +1,5 @@
 {
-"Ads":"true",
+"Ads":"false",
 "ads_type":"admob",
 "ads_native_type":"nativebanner",
 "ad_one_by_one_ids":"false",
