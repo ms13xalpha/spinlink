@@ -1,6 +1,6 @@
 {
 "isAdmobShow":false, 
-"Qurekalink":"true",
+"Qurekalink":"http://594.win.qureka.com/",
 "Adcount":0,
 "AdSpace":true,
 "Adload":true,
@@ -8,7 +8,7 @@
 "HideIsTimerCount":0,
 "IsTimerListing":true,
 "IsTimerListingCount":0,
-"QurekaFlag":false,
+"QurekaFlag":true,
 "Rinter":"/6499/example/interstitial",
 "Rbanner":"/6499/example/banner",
 "Rappopen":"/6499/example/app-open",
