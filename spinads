@@ -1,5 +1,5 @@
 {
-"isAdmobShow":false, 
+"isAdmobShow":true, 
 "Qurekalink":"http://594.win.qureka.com/",
 "Adcount":0,
 "AdSpace":true,
@@ -9,9 +9,9 @@
 "IsTimerListing":true,
 "IsTimerListingCount":0,
 "QurekaFlag":true,
-"Rinter":"/6499/example/interstitial",
-"Rbanner":"/6499/example/banner",
-"Rappopen":"/6499/example/app-open",
-"Rnative":"/6499/example/native",
-"customNativereward":"/6499/example/native"
+"Rinter":"/150790500,22836142632/26534_APP_INTER",
+"Rbanner":"/150790500,22836142632/26534_APP_BANNER_320x50",
+"Rappopen":"/150790500,22836142632/26534_APP_OPEN",
+"Rnative":"/150790500,22836142632/26534_APP_NATIVE",
+"customNativereward":"/150790500,22836142632/26534_APP_REWARDED"
 }
