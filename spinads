@@ -1,6 +1,6 @@
 {
 "isAdmobShow":true,
-"qurekha":false,
+
 "Qurekalink":"",
 "Adcount":0,
 "AdSpace":true,
@@ -9,7 +9,7 @@
 "HideIsTimerCount":0,
 "IsTimerListing":true,
 "IsTimerListingCount":0,
-"QurekaFlag":true,
+"QurekaFlag":false,
 "Rinter":"/150790500,22836142632/26534_APP_INTER",
 "Rbanner":"/150790500,22836142632/26534_APP_BANNER_320x50",
 "Rappopen":"/150790500,22836142632/26534_APP_OPEN",
