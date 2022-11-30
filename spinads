@@ -1,6 +1,7 @@
 {
-"isAdmobShow":true, 
-"Qurekalink":"http://594.win.qureka.com/",
+"isAdmobShow":true,
+"qurekha":false,
+"Qurekalink":"",
 "Adcount":0,
 "AdSpace":true,
 "Adload":true,
